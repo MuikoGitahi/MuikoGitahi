@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuikoGitahi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Backend Development using Python.
+- 🌱 I’m currently learning Dart for Flutter .
 - 💞️ I’m looking to collaborate on any project and keep improving my skills.
 - 📫 How to reach me Email at: mgitahi040@gmail.com.
 - or call +25457343290
